@@ -1,0 +1,1 @@
+E:\React\task-tracker\obj\Debug\task-tracker.esproj.CoreCompileInputs.cache
